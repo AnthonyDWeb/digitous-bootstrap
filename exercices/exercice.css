@@ -1,0 +1,31 @@
+
+
+.row div{
+    margin-bottom: 0.5rem;
+    height: 2rem;
+}
+
+.form-exo3 input{
+    width: 80%;
+}
+
+.img-eminem{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.slime-shady-img{
+    float: right;
+    padding-bottom: 50px;
+}
+
+.title-eminem{
+    padding-top: 50px;
+}
+.head1{
+    height: 350px;
+    background-color: rgb(218, 214, 214);
+    margin-bottom: 2%;
+}
+
+
