@@ -1,5 +1,14 @@
+body{
+    background-color: rgb(31, 27, 27);
+}
 
-
+h1{
+    font-weight: 800;
+    font-style: italic;
+    margin: 3rem;
+    text-align: center;
+    color: rgb(155, 11, 11) ;
+}
 .row div{
     margin-bottom: 0.5rem;
     height: 2rem;
